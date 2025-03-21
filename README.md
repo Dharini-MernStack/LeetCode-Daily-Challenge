@@ -23,7 +23,7 @@ Each folder contains:
 ### ✅ **Medium Level**
 | Date Solved  | Problem Name        | Solution File |
 |-------------|--------------------|---------------|
-| 21.03.2025  | Find All Recipes   | [find-all-recipes.java](./medium/find-all-recipes.java) |
+| 21.03.2025  | Find All Recipes   | [find-all-recipes.java](./medium/FindAllRecipes.java) |
 
 ## ⚡ Technologies Used
 - **Language:** Java ☕  
