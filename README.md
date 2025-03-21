@@ -1,4 +1,3 @@
-
 # 🚀 Competitive Programming Solutions
 
 ## 📌 Objective
@@ -21,14 +20,19 @@ Each folder contains:
 |-------------|--------------------|---------------|
 | 20.03.2025  | Minimum Cost Walk  | [minimum-cost-walk.java](./hard/minimum-cost-walk.java) |
 
+### ✅ **Medium Level**
+| Date Solved  | Problem Name        | Solution File |
+|-------------|--------------------|---------------|
+| 21.03.2025  | Find All Recipes   | [find-all-recipes.java](./medium/find-all-recipes.java) |
+
 ## ⚡ Technologies Used
 - **Language:** Java ☕  
 - **Concepts Covered:** Graph Theory, Bitwise Operations, Disjoint Set Union (DSU)
 
 ## 🔥 How to Run the Code
 ```sh
-javac hard/minimum-cost-walk.java
-java hard/minimum-cost-walk
+javac medium/find-all-recipes.java
+java medium/find-all-recipes
 ```
 
 ## 📌 Contributing
@@ -36,7 +40,6 @@ If you’d like to contribute, feel free to **fork** the repository, add new pro
 
 ## ⭐ Show Your Support
 If you find this repository helpful, consider giving it a **⭐ Star**!
-```
 
----
+
 
